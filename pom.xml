@@ -3,7 +3,7 @@
   <groupId>senac-dd-20182-atividades-gabrielmatheus</groupId>
   <artifactId>senac-dd-20182-atividades-gabrielmatheus</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <build>
+  <build> 
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
