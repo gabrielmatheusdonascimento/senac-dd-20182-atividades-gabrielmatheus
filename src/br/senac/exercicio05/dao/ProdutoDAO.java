@@ -21,7 +21,7 @@ package br.senac.exercicio05.dao;
 			try {
 				resultado = stmt.executeUpdate(query);
 			} catch (SQLException e) {
-				System.out.println("Erro ao executar a Query de Cadastro do Colecionador.");
+				System.out.println("Erro ao executar a Query de Cadastro do Colecionadssso.");
 			} finally {
 				Banco.closeStatement(stmt);
 				Banco.closeConnection(conn);
